@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 <h3 align="center">A Passionate MERN Stack Developer From Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM1YWN0bXZlbmFvZnhsb3FhMDJhYnBqbjBnN2t0ZTZzbXMxbnl0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haider-ali-ha&label=Profile%20views&color=0e75b6&style=flat" alt="haider-ali-ha" /> </p>
 
