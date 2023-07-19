@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
-<h3 align="center">A Passionate MERN Stack Developer From Pakistan</h3>
+<h3 align="center">A Passionate React Developer From Pakistan</h3>
 
 
 
