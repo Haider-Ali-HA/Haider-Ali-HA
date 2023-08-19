@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my GitHub [https://github.com/Haider-Ali-HA](https://github.com/Haider-Ali-HA)
 
-- 📫 How to reach me **haideraliatish05@gmail.com**
+- 📫 How to reach me? **haideraliatish05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
